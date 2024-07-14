@@ -67,7 +67,7 @@ This project automates the process of reading customer queries and responding to
 ## Contact
 Your Name - Satyam Sharma (sat9431@gmail.com)
 
-Project Link: [https://github.com/yourusername/automated-customer-support-bot](https://github.com/yourusername/automated-customer-support-bot)
+Project Link: https://github.com/sats23/Case_study1.git
 
 ---
 
